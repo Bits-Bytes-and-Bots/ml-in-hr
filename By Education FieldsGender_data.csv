@@ -1,0 +1,13 @@
+﻿Gender,EducationField (WA!Fn-UseC!-HR-Employee-Attriti),Likely to Turnover
+Female,Medical,0.052781740
+Female,Human Resources,0.055555556
+Female,Marketing,0.060498221
+Female,Life Sciences,0.065573770
+Female,Technical Degree,0.073529412
+Female,Other,0.090090090
+Male,Life Sciences,0.054603854
+Male,Other,0.064257028
+Male,Medical,0.066344994
+Male,Technical Degree,0.073482428
+Male,Marketing,0.079155673
+Male,Human Resources,0.094736842

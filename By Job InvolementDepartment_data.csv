@@ -1,0 +1,13 @@
+﻿Department,Job Involvement Level,Likely to Remain,Likely to Turnover
+Sales,Very High,0.907894737,0.092105263
+Sales,High,0.936320755,0.063679245
+Sales,Medium,0.935560859,0.064439141
+Sales,Low,0.906779661,0.093220339
+Research & Development,Very High,0.935897436,0.064102564
+Research & Development,High,0.947594502,0.052405498
+Research & Development,Medium,0.929319372,0.070680628
+Research & Development,Low,0.916666667,0.083333333
+Human Resources,Very High,0.90625,0.09375
+Human Resources,High,0.941176471,0.058823529
+Human Resources,Medium,0.883495146,0.116504854
+Human Resources,Low,1,0

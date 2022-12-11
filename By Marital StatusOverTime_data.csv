@@ -1,0 +1,7 @@
+﻿MaritalStatus,OverTime,Likely to Remain,Likely to Turnover
+Single,Yes,0.866935484,0.133064516
+Married,Yes,0.938582677,0.061417323
+Divorced,Yes,0.938875306,0.061124694
+Single,No,0.9375,0.0625
+Married,No,0.954504095,0.045495905
+Divorced,No,0.942693410,0.057306590
